@@ -6,19 +6,19 @@ During the hackthon we will build a web app that does fraud detection on (fake) 
 
 - Python 3 virtual environment with the following packages:
 
-    aniso8601==1.1.0
-    Flask==0.10.1
-    Flask-Compress==1.3.0
-    Flask-REST==1.1
-    Flask-RESTful==0.3.5
-    itsdangerous==0.24
-    Jinja2==2.8
-    MarkupSafe==0.23
-    psycopg2==2.6.1
-    python-dateutil==2.4.2
-    pytz==2015.7
-    six==1.10.0
-    Werkzeug==0.11.2
+        aniso8601==1.1.0
+        Flask==0.10.1
+        Flask-Compress==1.3.0
+        Flask-REST==1.1
+        Flask-RESTful==0.3.5
+        itsdangerous==0.24
+        Jinja2==2.8
+        MarkupSafe==0.23
+        psycopg2==2.6.1
+        python-dateutil==2.4.2
+        pytz==2015.7
+        six==1.10.0
+        Werkzeug==0.11.2
 
 - Postgres version 9.5 or later
 - your favourite IDE
