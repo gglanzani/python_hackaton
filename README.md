@@ -80,7 +80,7 @@ The decection logic itself should be based on a couple of simple rules (eg. amou
 
 Create some nosetests for your developed python app.
 
-###  Step 4 (optional): Package you app
+### Step 5 (optional): Package your app
 
 Create a Python package for easy distribution and installation of your app.
 
